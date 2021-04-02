@@ -9,11 +9,11 @@ download python : https://www.python.org/downloads/
 pygame module was used in this game:
 if you don't have it than go in powershell window and write there 'pip install pygame'
 
-![starting page]("C:/Users/admin/PycharmProject/makegame/gamestart.png")
+![starting page](https://user-images.githubusercontent.com/70130258/113421482-d169ce00-93e8-11eb-8dc4-6f880ed101fc.png)
 
-![background image of game]("C:Users/admin/PycharmProject/makegame/bggame.png")
+![background image of game](https://user-images.githubusercontent.com/70130258/113421537-ea727f00-93e8-11eb-9a03-3de255ba0f88.png)
 
-![end game image]("C:/Users/admin/PycharmProject/makegame/gameover.png")
+![end game image](https://user-images.githubusercontent.com/70130258/113421598-0544f380-93e9-11eb-8b0c-7cfb0cadf99c.png)
 
 ...DON'T DELETE ANY FILE...
  
