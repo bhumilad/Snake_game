@@ -1,13 +1,16 @@
 # Snake_game
 
-this game is amazing ..i provided you all codes and also background pictures and background.you change music and picture in your game.
-this game made by using python..
-if you like to play this snake game than you must have python.
+This game is amazing .I provided you all codes and also background pictures and background music. You can change musics and pictures in your own game.
+This game made by using python(pytorch)..
+
+If you want to play this snake game, then you must have python.
 
 download python : https://www.python.org/downloads/
 
-pygame module was used in this game:
-if you don't have it than go in powershell window and write there 'pip install pygame'
+for install pygame module
+""" python=
+pip install pygame
+"""
 
 ![starting page](https://user-images.githubusercontent.com/70130258/113421482-d169ce00-93e8-11eb-8dc4-6f880ed101fc.png)
 
