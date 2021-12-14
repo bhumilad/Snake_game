@@ -9,11 +9,7 @@ download python : https://www.python.org/downloads/
 
 for install pygame module
 
-""" python=
-
-pip install pygame
-
-"""
+**pip install pygame**
 
 ![starting page](https://user-images.githubusercontent.com/70130258/113421482-d169ce00-93e8-11eb-8dc4-6f880ed101fc.png)
 
